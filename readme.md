@@ -102,7 +102,7 @@ FILE HANDLING!
 Python has two methods to open files, the good way and the bad way!
 <br />
 
-<h4></h4> Task 4: File handling</h4>
+<h4> Task 4: File handling</h4>
 
 - Create a file
 - Write to a file
