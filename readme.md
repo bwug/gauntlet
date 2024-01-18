@@ -4,7 +4,7 @@
 
 This is a python gauntlet, whoever completes the series of python challenges first will be entered into a second set of ranking where I will test the code's performance and overall structure.
 
-Each task will have a hint or piece of code that will help you in solving it but I recommend learning how to google code solutions, [w3schools](google.com) is a great learning tool for novices :D
+Each task will have a hint or piece of code that will help you in solving it but I recommend learning how to google code solutions, [w3schools](https://www.w3schools.com/python/) is a great learning tool for novices :D
 
 There is no "right" way to code, especially in python. So long as your code is readable and not incredibly slow its good code!
 
@@ -21,7 +21,7 @@ Click me :3
 ---
 
 <h2> Getting started </h2>
-I personally recommend getting:
+I personally recommend getting:<br>
 
 [IDLE: Windows](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe)<br>
 [IDLE: All downloads](https://www.python.org/downloads/release/python-3121/)<br>
@@ -35,7 +35,7 @@ However, if you want a linter (autocomplete), VSCode and PyCharm community editi
 
 _`print("hello world")`_
 
-<h6> Task 1: My 'hello world'</h6>
+<h4> Task 1: My 'hello world'</h4>
 
 - Ask the user to input two numbers
 - Return the sum of the numbers IF the former > the latter
@@ -50,7 +50,7 @@ Hints for task:
 
 <br />
 
-<h6> Task 2: Fruit loops</h6>
+<h4> Task 2: Fruit loops</h4>
 
 - Write a function that takes any number of number inputs, meaning integer and float types
 - Return the max value of these numbers
@@ -72,7 +72,7 @@ for value in range(start, end, jump):
 
 <br />
 
-<h6> Task 3: Introduction to functions</h6>
+<h4> Task 3: Introduction to functions</h4>
 
 - Create a function that takes two integer inputs
 - Return the power of each, so x ** y and y ** x
@@ -102,7 +102,7 @@ FILE HANDLING!
 Python has two methods to open files, the good way and the bad way!
 <br />
 
-<h6> Task 4: File handling</h6>
+<h4></h4> Task 4: File handling</h4>
 
 - Create a file
 - Write to a file
@@ -128,7 +128,7 @@ with open("text.txt", "r") as file:
 
 <br />
 
-<h6> Task 5: Classes</h6>
+<h4> Task 5: Classes</h4>
 
 - I will keep this brief
 - Make a class named "Person"
@@ -153,7 +153,7 @@ I will also have solutions posted for all of these \^_\^
 
 <br />
 
-<h6> Task 999: Calculator</h6>
+<h4> Task 999: Calculator</h4>
 
 _SHOCK AND HORROR - a viable github project!_
 
