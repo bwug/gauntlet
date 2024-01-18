@@ -12,14 +12,6 @@ There is no "right" way to code, especially in python. So long as your code is r
 
 _My DMs are always open for advice and support_
 
-<details>
-<summary>
-Click me :3
-</summary>
-    
-> `:D` appears as a smiley!
-</details>
-
 ---
 
 <h2> Getting started </h2>
