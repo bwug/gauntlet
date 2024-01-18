@@ -14,6 +14,7 @@ _My DMs are always open for advice and support_
 <summary>
 Click me :3
 </summary>
+    
 > `:D` appears as a smiley!
 </details>
 
