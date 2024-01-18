@@ -2,7 +2,8 @@
 
 ---
 
-This is a python gauntlet, whoever completes the series of python challenges first will be entered into a second set of ranking where I will test the code's performance and overall structure.
+This is a python gauntlet, whoever has the best code performance and style will win a cash prize, entries close on 31st Jan.
+Add your name to the top of your code using a # comment.
 
 Each task will have a hint or piece of code that will help you in solving it but I recommend learning how to google code solutions, [w3schools](https://www.w3schools.com/python/) is a great learning tool for novices :D
 
