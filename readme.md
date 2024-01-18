@@ -185,3 +185,5 @@ Have fun, plan it out, w3 has what you need (my DMs are always open, too)
 </details>
 
 # Happy coding, losers!
+
+<h2>To submit, either zip your files and send them to me (no zipbombs please) or clone this repository to your own github and send me the link, I do not mind!</h2>
