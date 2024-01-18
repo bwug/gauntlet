@@ -23,9 +23,9 @@ Click me :3
 <h2> Getting started </h2>
 I personally recommend getting:
 
-[IDLE: Windows](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe)
-[IDLE: All downloads](https://www.python.org/downloads/release/python-3121/)
-[VSCode: All downloads](https://code.visualstudio.com/download)
+[IDLE: Windows](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe)<br>
+[IDLE: All downloads](https://www.python.org/downloads/release/python-3121/)<br>
+[VSCode: All downloads](https://code.visualstudio.com/download)<br>
 This is a barebones python IDE developed by the python foundation with all python docs included inapp!
 
 However, if you want a linter (autocomplete), VSCode and PyCharm community edition are great IDEs to use.
