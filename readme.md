@@ -90,6 +90,7 @@ def func(input_parameters):
 </details>
 
 <br />
+<br />
 
 Great! Now we have a basic understanding of the majority of the content that is used in the structured programming labs, now its time to link everything together.
 
