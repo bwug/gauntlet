@@ -20,9 +20,8 @@ I personally recommend getting:<br>
 [IDLE: Windows](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe)<br>
 [IDLE: All downloads](https://www.python.org/downloads/release/python-3121/)<br>
 [VSCode: All downloads](https://code.visualstudio.com/download)<br>
-This is a barebones python IDE developed by the python foundation with all python docs included inapp!
-
-However, if you want a linter (autocomplete), VSCode and PyCharm community edition are great IDEs to use.
+<br>
+IDLE is a barebones python IDE developed by the python foundation with all python docs included inapp. However, if you want a linter (autocomplete), VSCode and PyCharm community edition are great IDEs to use.
 
 ---
 <h3> Tasks </h3>
