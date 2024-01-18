@@ -55,13 +55,14 @@ Hints for task:
 
 - Write a function that takes any number of number inputs, meaning integer and float types
 - Return the max value of these numbers
+- I want this code to exit the loop if the number input is 0
 
 <details>
 <summary>
 Hints for task:
 </summary>
 
-> Use a while loop, a for loop and a list!
+> Use a while loop, a for loop and a list! p.s max() is your friend.
 
 ```py
 list = []
@@ -149,6 +150,7 @@ Good luck `:P`
 <br />
 
 Final one I promise
+
 This will require the power of google (w3schools <3)
 
 I will also have solutions posted for all of these \^_\^
@@ -161,17 +163,17 @@ _SHOCK AND HORROR - a viable github project!_
 
 - Write a calculator
 - This will loop until an exit code is given
-- This will take a string input 
+- This will take a string input, e.g "4 + 2" -> The space is necessary
 - This will call a function with your input
 - This function will split the input and cast the numbers [cast](https://www.w3schools.com/python/python_casting.asp) to a float
 - This can be done with if statements or error handling
 - This will output the result
 - This calculator will support:
-    - 2 digit arithmetic and logic
     - All arithmetic operations:
         - \+ \- * ** / // %
     - All logic operations:
         - < > == != >= <= [is]()
+- This calculator will have an opcode and two operands, as seen in the example
 
 
 
