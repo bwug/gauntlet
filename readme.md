@@ -3,6 +3,7 @@
 ---
 
 This is a python gauntlet, whoever has the best code performance and style will win a cash prize, MORE PUZZLES WILL RELEASE ON 31ST JAN AND DEADLINE IS FEB 10th.
+
 Add your name to the top of your code using a # comment.
 
 Each task will have a hint or piece of code that will help you in solving it but I recommend learning how to google code solutions, [w3schools](https://www.w3schools.com/python/) is a great learning tool for novices :D
