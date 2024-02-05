@@ -1,0 +1,55 @@
+Array
+
+C: int numbers[6] = [2, 3, 5, 7, 9, 11]
+
+List
+
+Python: numbers = [2, 3, 5, 7, 9, 11, 13, 17]
+
+Tuple
+
+Python: numbers = (2, 3, 5, 7)
+
+Dictionary
+
+Python: numbers = {
+    key1: "Value1",
+    key2: "Value2",
+    key3: "Value3"
+}
+
+Tree
+
+Python:
+class Tree:
+    def __init__(self, value = 0, left = 0, right = 0):
+        self.value = value
+        self.left = left
+        self.right = right
+
+    def add_left(self, value, left = None, right = None):
+        self.left = Tree(value)
+    
+    def add_right(self, value, left = None, right = None):
+        self.right = Tree(value)
+
+Graph
+
+Python:
+class Graph:
+    def __init__(self, value = 0, nodes = None):
+        self.value = value
+        self.nodes = []
+
+    def add_nodes(self, node):
+        self.nodes.append(node)
+
+Linked List
+
+Python:
+class Node:
+    def __init__(self, value = None, next = None):
+        self.value = value
+        self.next = next
+
+linked_list = Node(5, Node(6, Node(7, Node())))
