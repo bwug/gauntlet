@@ -24,3 +24,22 @@ Demo code for these can be seen in examples.txt
     - A graph is similar to a tree but can have any number of child nodes for a given parent node, and often has a weighting attached to each node
 - Linked List
     - A linked list is a data type that contains two pieces of information, its content and a pointer to the next memory address for the linked list, though you can include a third, a pointer to the previous memory address
+
+
+<h4> Task 1: Make a list containing information about you</h4>
+
+- For this task, create a list in python containing:
+    - Name
+        - Separate the name as individual indices
+    - Age
+
+<details>
+<summary>
+Hints for task:
+</summary>
+
+You need help for this?
+
+</details>
+
+<br />
