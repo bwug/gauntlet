@@ -149,7 +149,7 @@ I will also have solutions posted for all of these \^_\^
 
 <br />
 
-<h4> Task 999: Calculator</h4>
+<h4> Task 6: Calculator</h4>
 
 _SHOCK AND HORROR - a viable github project!_
 
@@ -175,6 +175,15 @@ Hints for task:
 </summary>
 Have fun, plan it out, w3 has what you need (my DMs are always open, too)
 </details>
+
+<h4>Task 7: GUI Calculator (Extension: Graphing)</h4>
+_The start of a good list of projects_
+
+- Utilise task 6 to solve user inputs, maybe
+- Use a graphics library, I recommend tkinter, to produce the user page
+- Have a separate exe or function type to load a graphing app similar to desmos
+- Allow the user to save their plots / input history for both the graphs and standard calculations
+- Potentially find ways to include functions in your calculator, such as sin() and cos()
 
 # Happy coding, losers!
 
